@@ -1,0 +1,143 @@
+aid: mantech
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/mantech/refs/heads/main/apis.yml
+name: ManTech International
+tags:
+  - Defense
+  - Intelligence
+  - Cybersecurity
+  - Federal Services
+  - Information Technology
+  - National Security
+  - Government Services
+  - Company
+type: Index
+kind: company
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+access: 3rd-Party
+created: '2026-05-23'
+modified: '2026-05-23'
+position: Producer
+description: >-
+  ManTech International is a Herndon, Virginia-based federal services
+  contractor providing cybersecurity, data and AI, digital transformation,
+  and intelligent engineering capabilities to U.S. defense, intelligence,
+  and federal civilian agencies. Founded in 1968 and publicly traded on
+  NASDAQ as MANT until 2022, the company was acquired by The Carlyle Group
+  in April 2022 in an all-cash take-private transaction valued at
+  approximately $4.2 billion and now operates as a Carlyle portfolio
+  company. ManTech holds positions on major federal contract vehicles
+  including Alliant 2/3, OASIS+, SeaPort NxG, CIO-SP3, T4NG, and ICON, and
+  does not publish any developer-facing API or public OpenAPI surface.
+apis:
+  - aid: mantech:mantech-website
+    name: ManTech International
+    tags:
+      - Defense
+      - Federal Services
+      - Cybersecurity
+    humanURL: https://www.mantech.com
+    properties:
+      - type: Website
+        url: https://www.mantech.com
+      - type: About
+        url: https://www.mantech.com/about/
+      - type: Capabilities
+        url: https://www.mantech.com/expertise/cyberspace-superiority/
+      - type: Capabilities
+        url: https://www.mantech.com/expertise/data-ai/
+      - type: Capabilities
+        url: https://www.mantech.com/expertise/digital-transformation/
+      - type: Capabilities
+        url: https://www.mantech.com/expertise/intelligent-engineering/
+      - type: Newsroom
+        url: https://www.mantech.com/in-the-news/
+      - type: Careers
+        url: https://careers.mantech.com/en_US/careers
+      - type: Contracts
+        url: https://www.mantech.com/contracts/
+      - type: Contact
+        url: https://www.mantech.com/contact/
+    description: >-
+      Corporate web presence for ManTech International. No public developer
+      API, OpenAPI specification, SDK, or status page is published. Public
+      surfaces are limited to corporate, capability, newsroom, careers, and
+      federal contract-vehicle pages.
+common:
+  - type: Website
+    url: https://www.mantech.com
+  - type: About
+    url: https://www.mantech.com/about/
+  - type: Newsroom
+    url: https://www.mantech.com/in-the-news/
+  - type: Careers
+    url: https://careers.mantech.com/en_US/careers
+  - type: Contracts
+    url: https://www.mantech.com/contracts/
+  - type: Contact
+    url: https://www.mantech.com/contact/
+  - type: ParentCompany
+    url: https://www.carlyle.com
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/mantech-international-corporation
+  - type: GitHubOrganization
+    url: https://github.com/Mantech
+ownership:
+  - name: The Carlyle Group
+    url: https://www.carlyle.com
+    relationship: ParentCompany
+    acquired: '2022-04-04'
+    closed: '2022-09-15'
+    deal_value_usd: 4200000000
+    structure: take-private all-cash
+    prior_listing: NASDAQ:MANT
+    note: >-
+      Carlyle agreed to acquire ManTech International on March 28, 2022 at
+      $96.00 per share, an all-cash transaction valued at approximately
+      $4.2 billion including assumed debt. The merger closed on September
+      15, 2022 and ManTech was delisted from NASDAQ. The company now
+      operates as a privately held Carlyle portfolio company.
+capabilities:
+  - name: Cyberspace Superiority
+    url: https://www.mantech.com/expertise/cyberspace-superiority/
+  - name: Data and AI
+    url: https://www.mantech.com/expertise/data-ai/
+  - name: Digital Transformation
+    url: https://www.mantech.com/expertise/digital-transformation/
+  - name: Intelligent Engineering
+    url: https://www.mantech.com/expertise/intelligent-engineering/
+contracts:
+  - name: Alliant 2
+    holder: GSA
+  - name: Alliant 3
+    holder: GSA
+  - name: ASTRO
+    holder: GSA
+  - name: OASIS+
+    holder: GSA
+  - name: ICON
+    holder: GSA
+  - name: CIO-SP3
+    holder: NIH NITAAC
+  - name: RS3
+    holder: U.S. Army Contracting Command - APG
+  - name: R4
+    holder: U.S. Army
+  - name: Encore III
+    holder: DISA/DITCO-SCOTT
+  - name: DOD IAC MAC
+    holder: DoD IAC Program Management Office
+  - name: SeaPort NxG
+    holder: U.S. Navy
+  - name: TAP West
+    holder: Navy NAVFAC Pacific
+  - name: T4NG
+    holder: Department of Veterans Affairs
+  - name: SPARC
+    holder: HHS CMS
+  - name: DOJ BPA
+    holder: Department of Justice
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
+specificationVersion: '0.19'
