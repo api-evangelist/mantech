@@ -64,6 +64,8 @@ apis:
       surfaces are limited to corporate, capability, newsroom, careers, and
       federal contract-vehicle pages.
 common:
+  - type: DomainSecurity
+    url: security/mantech-domain-security.yml
   - type: Website
     url: https://www.mantech.com
   - type: About
