@@ -42,11 +42,6 @@ ManTech International was acquired by The Carlyle Group in 2022 and is no longer
 
 ## APIs
 
-### ManTech International
-
-ManTech International does not publish a public developer API, OpenAPI specification, SDK, status page, or RSS feed. Public web surfaces are limited to corporate, capabilities, newsroom, careers, and federal contract-vehicle pages.
-
-**Human URL:** [https://www.mantech.com](https://www.mantech.com)
 
 ## Federal Contract Vehicles
 

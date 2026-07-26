@@ -13,10 +13,21 @@ tags:
   - Company
 type: Index
 kind: company
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/mantech.png
 access: 3rd-Party
 created: '2026-05-23'
-modified: '2026-05-23'
+modified: '2026-07-25'
 position: Producer
 description: >-
   ManTech International is a Herndon, Virginia-based federal services
@@ -29,40 +40,7 @@ description: >-
   company. ManTech holds positions on major federal contract vehicles
   including Alliant 2/3, OASIS+, SeaPort NxG, CIO-SP3, T4NG, and ICON, and
   does not publish any developer-facing API or public OpenAPI surface.
-apis:
-  - aid: mantech:mantech-website
-    name: ManTech International
-    tags:
-      - Defense
-      - Federal Services
-      - Cybersecurity
-    humanURL: https://www.mantech.com
-    properties:
-      - type: Website
-        url: https://www.mantech.com
-      - type: About
-        url: https://www.mantech.com/about/
-      - type: Capabilities
-        url: https://www.mantech.com/expertise/cyberspace-superiority/
-      - type: Capabilities
-        url: https://www.mantech.com/expertise/data-ai/
-      - type: Capabilities
-        url: https://www.mantech.com/expertise/digital-transformation/
-      - type: Capabilities
-        url: https://www.mantech.com/expertise/intelligent-engineering/
-      - type: Newsroom
-        url: https://www.mantech.com/in-the-news/
-      - type: Careers
-        url: https://careers.mantech.com/en_US/careers
-      - type: Contracts
-        url: https://www.mantech.com/contracts/
-      - type: Contact
-        url: https://www.mantech.com/contact/
-    description: >-
-      Corporate web presence for ManTech International. No public developer
-      API, OpenAPI specification, SDK, or status page is published. Public
-      surfaces are limited to corporate, capability, newsroom, careers, and
-      federal contract-vehicle pages.
+apis: []
 common:
   - type: DomainSecurity
     url: security/mantech-domain-security.yml
