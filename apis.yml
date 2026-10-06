@@ -38,7 +38,7 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/mantech.png
 access: 3rd-Party
 created: '2026-05-23'
-modified: '2026-07-25'
+modified: '2026-10-06'
 position: Producing
 description: >-
   ManTech International is a Herndon, Virginia-based federal services
@@ -53,6 +53,8 @@ description: >-
   does not publish any developer-facing API or public OpenAPI surface.
 apis: []
 common:
+  - url: https://www.mantech.com/feed/
+    type: BlogRSS
   - type: DomainSecurity
     url: security/mantech-domain-security.yml
   - type: Website
