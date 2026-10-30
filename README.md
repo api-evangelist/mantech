@@ -1,4 +1,4 @@
-# ManTech International (mantech)
+# ManTech International
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,76 +64,80 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ManTech International is a Herndon, Virginia-based federal services contractor providing cybersecurity, data and AI, digital transformation, and intelligent engineering capabilities to U.S. defense, intelligence, and federal civilian agencies. The company was acquired by The Carlyle Group in April 2022 in an all-cash take-private transaction valued at approximately $4.2 billion and now operates as a Carlyle portfolio company.
+ManTech International is a Herndon, Virginia-based federal services contractor providing cybersecurity, data and AI, digital transformation, and intelligent engineering capabilities to U.S. defense, intelligence, and federal civilian agencies. Founded in 1968 and publicly traded on NASDAQ as MANT until 2022, the company was acquired by The Carlyle Group in April 2022 in an all-cash take-private transaction valued at approximately $4.2 billion and now operates as a Carlyle portfolio company. ManTech holds positions on major federal contract vehicles including Alliant 2/3, OASIS+, SeaPort NxG, CIO-SP3, T4NG, and ICON, and does not publish any developer-facing API or public OpenAPI surface.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/mantech/refs/heads/main/apis.yml)
+**Areas:** Defense · Intelligence · Cybersecurity · Federal Services · Information Technology · National Security · Government Services · Company
 
-## Scope
+## ManTech International on APIs.io
 
-- **Type:** Index
-- **x-type:** company
-- **Position:** Producer
-- **Access:** 3rd-Party
+Everything profiled for ManTech International is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/mantech/](https://apis.io/providers/mantech/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### Published properties
 
-- Defense
-- Intelligence
-- Cybersecurity
-- Federal Services
-- Information Technology
-- National Security
-- Government Services
-- Company
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Ownership
+#### Security (1)
 
-ManTech International was acquired by The Carlyle Group in 2022 and is no longer publicly traded.
+Authentication, trust centre, and vulnerability disclosure.
 
-- **Parent company:** [The Carlyle Group](https://www.carlyle.com)
-- **Acquisition announced:** March 28, 2022 ($96.00 per share, all cash)
-- **Acquisition closed:** September 15, 2022
-- **Deal value:** approximately $4.2 billion (including assumed debt)
-- **Prior listing:** NASDAQ: MANT (delisted September 2022)
-- **Structure:** take-private all-cash merger
+- [Mantech Domain Security](https://apis.io/security/mantech/mantech-domain-security/)
 
-## Capabilities
+## Where to find this API
 
-- [Cyberspace Superiority](https://www.mantech.com/expertise/cyberspace-superiority/)
-- [Data and AI](https://www.mantech.com/expertise/data-ai/)
-- [Digital Transformation](https://www.mantech.com/expertise/digital-transformation/)
-- [Intelligent Engineering](https://www.mantech.com/expertise/intelligent-engineering/)
-
-## APIs
-
-
-## Federal Contract Vehicles
-
-ManTech holds positions on the following government contract vehicles:
-
-- **GSA:** Alliant 2, Alliant 3, ASTRO, OASIS+, ICON
-- **NIH NITAAC:** CIO-SP3
-- **U.S. Army:** RS3, R4
-- **DISA:** Encore III
-- **DoD:** DOD IAC MAC
-- **U.S. Navy:** SeaPort NxG, TAP West
-- **Department of Veterans Affairs:** T4NG
-- **HHS CMS:** SPARC
-- **Department of Justice:** DOJ BPA
-
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.mantech.com)
-- [About](https://www.mantech.com/about/)
-- [Newsroom](https://www.mantech.com/in-the-news/)
-- [Careers](https://careers.mantech.com/en_US/careers)
-- [Contracts](https://www.mantech.com/contracts/)
-- [Contact](https://www.mantech.com/contact/)
-- [Parent Company - The Carlyle Group](https://www.carlyle.com)
-- [LinkedIn](https://www.linkedin.com/company/mantech-international-corporation)
-- [GitHub (empty / no public repos)](https://github.com/Mantech)
+- [GitHub](https://github.com/Mantech)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
-**Email:** kin@apievangelist.com
+**Kin Score 4.1** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 49.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Government & Public Sector
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/mantech/](https://apis.io/providers/mantech/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for ManTech International: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/mantech/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
